@@ -2,7 +2,7 @@
 
 저는 **인공지능**과 **알고리즘 분석**에 관심이 있고, 이를 통해 **세상을 더 유익하게** 바꿀 수 있는 개발자가 되고 싶습니다.
 
-&#128231; E-mail : ghd4567@naver.com &nbsp;&nbsp;&nbsp; ghd4567@khu.ac.kr
+&#128231; E-mail : ghd4567@naver.com &nbsp;&nbsp;&nbsp; ghd4567@kaist.ac.kr
 
 !['s github stats](https://github-readme-stats.vercel.app/api?username=HoneyOn&show_icons=true)
 [![Solved.ac
